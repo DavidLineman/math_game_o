@@ -1,3 +1,8 @@
 h2 {
-  color: lightgreen;
+  color: rgb(50, 168, 50);
+}
+
+input {
+  border-radius: 10px;
+  padding: 10px;
 }
