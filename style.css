@@ -4,7 +4,11 @@ body {
 }
 
 h2 {
+  font-size: 50px;
+  text-shadow: 5px 5px 5px lightslategrey;
   color: rgb(50, 168, 50);
+  -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 input {
