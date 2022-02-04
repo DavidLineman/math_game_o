@@ -30,7 +30,7 @@ $(document).ready(function() {
 
   let updateTimeLeft = function (amount) {
     timeLeft += amount;
-    $('#time-left').text(timeLeft);
+    $('#time-left').text(":" + timeLeft);
   }
 
   let updateScore = function (amount) {
